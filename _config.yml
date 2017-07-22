@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Indifferent Opinions
-# email: Not there yet
+# email: Not yet
 description: > # this means to ignore newlines until "baseurl:"
   Just a place to put my mumblings and thoughts. These would generally
   be about networks, computer systems, random life and
