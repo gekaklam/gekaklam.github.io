@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/gekaklam
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://gekaklam.github.io
+  * I am gekaklam (https://keybase.io/gekaklam) on keybase.
+  * I have a public key ASBT5Zu2zM_67f_W5SCEOKDU3oASr47jjWVqxYRdZLaCRAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01010ee3e2078f9397da8bc308ac96c1f9df2219d9dd0136419e89d5d9eca14dc9870a",
+      "host": "keybase.io",
+      "kid": "012053e59bb6cccffaedffd6e5208438a0d4de8012af8ee38d656ac5845d64b682440a",
+      "uid": "fdaf43ebdc2ae4bf81e795d7f3e61619",
+      "username": "gekaklam"
+    },
+    "merkle_root": {
+      "ctime": 1511120461,
+      "hash": "7c015a12c0a5c1c0556c94fc2670466ffab2bfda19d18c75dfe0045dc421d1950ce02398d9491848cc14cdbabdba067c9615c87d241c2b124aef375056e3b129",
+      "hash_meta": "ec55f6b358941f5d1c5971b13d1dbe7ebb5f236054e59ef31a1f443ba2866701",
+      "seqno": 1720422
+    },
+    "service": {
+      "hostname": "gekaklam.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.35"
+  },
+  "ctime": 1511120486,
+  "expire_in": 504576000,
+  "prev": "45d93ff001b0aac44820357c66b19db66f42eb5ea8e8ad64fa80b19806a29cc5",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgU+WbtszP+u3/1uUghDig1N6AEq+O441lasWEXWS2gkQKp3BheWxvYWTFA0t7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxMGVlM2UyMDc4ZjkzOTdkYThiYzMwOGFjOTZjMWY5ZGYyMjE5ZDlkZDAxMzY0MTllODlkNWQ5ZWNhMTRkYzk4NzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNTNlNTliYjZjY2NmZmFlZGZmZDZlNTIwODQzOGEwZDRkZTgwMTJhZjhlZTM4ZDY1NmFjNTg0NWQ2NGI2ODI0NDBhIiwidWlkIjoiZmRhZjQzZWJkYzJhZTRiZjgxZTc5NWQ3ZjNlNjE2MTkiLCJ1c2VybmFtZSI6Imdla2FrbGFtIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTExMTIwNDYxLCJoYXNoIjoiN2MwMTVhMTJjMGE1YzFjMDU1NmM5NGZjMjY3MDQ2NmZmYWIyYmZkYTE5ZDE4Yzc1ZGZlMDA0NWRjNDIxZDE5NTBjZTAyMzk4ZDk0OTE4NDhjYzE0Y2RiYWJkYmEwNjdjOTYxNWM4N2QyNDFjMmIxMjRhZWYzNzUwNTZlM2IxMjkiLCJoYXNoX21ldGEiOiJlYzU1ZjZiMzU4OTQxZjVkMWM1OTcxYjEzZDFkYmU3ZWJiNWYyMzYwNTRlNTllZjMxYTFmNDQzYmEyODY2NzAxIiwic2Vxbm8iOjE3MjA0MjJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiZ2VrYWtsYW0uZ2l0aHViLmlvIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMzUifSwiY3RpbWUiOjE1MTExMjA0ODYsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiNDVkOTNmZjAwMWIwYWFjNDQ4MjAzNTdjNjZiMTlkYjY2ZjQyZWI1ZWE4ZThhZDY0ZmE4MGIxOTgwNmEyOWNjNSIsInNlcW5vIjoxMCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEBRJ0sGPdl24mcaZjNa452jOMOGuEPdIxakx6VTIpd28db10cvpzeGQNIqUYzLuYM+r8SbkY4IffRzuE82oz1oMqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQguAbxfxX6jGKzjkgSLCleVra1urbfLCX2iHPsBxSJEIyjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/gekaklam
+
+==================================================================
