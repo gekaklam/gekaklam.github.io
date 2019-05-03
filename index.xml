@@ -51,5 +51,15 @@ For example, this sub-section&amp;rsquo;s heading is exported as:</description>
 Export this second post only by bringing point here and doing M-x org-hugo-export-wim-to-md.</description>
     </item>
     
+    <item>
+      <title>Post heading with crazy characters</title>
+      <link>https://gekaklam.github.io/posts/post-heading-slugs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gekaklam.github.io/posts/post-heading-slugs/</guid>
+      <description>Releasing version 1.1 Foo ( Bar ) Baz (Foo)Bar.Baz&amp;amp;Zoo  . → dot &amp;amp; → and  C++  + → plus  Hey! I have a link to google (Awesome!) Este título es en español Non-English titles ÂÊÎÔÛ ÁÉÍÓÚÝ ÀÈÌÒÙ ÄËÏÖÜ ÃÐÑÕÞ Ç Headings with HTML Checklist [1&amp;frasl;3] Above title would render to Checklist &amp;lt;code&amp;gt;[1/3]&amp;lt;/code&amp;gt; in Markdown.
+DONE  Item 1 Above would render to &amp;lt;span class=&amp;quot;todo DONE_&amp;quot;&amp;gt;DONE &amp;lt;/span&amp;gt; Item 1 in Markdown.</description>
+    </item>
+    
   </channel>
 </rss>
