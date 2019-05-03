@@ -3,46 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.com/posts/image-links/</loc>
+    <loc>http://gekaklam.github.io/posts/image-links/</loc>
     <lastmod>2017-07-15T07:49:44-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/</loc>
-    <lastmod>2017-07-15T07:49:44-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/posts/</loc>
+    <loc>http://gekaklam.github.io/</loc>
     <lastmod>2017-07-15T07:49:44-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/</loc>
+    <loc>http://gekaklam.github.io/posts/</loc>
     <lastmod>2017-07-15T07:49:44-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/image/</loc>
+    <loc>http://gekaklam.github.io/tags/</loc>
     <lastmod>2017-07-15T07:49:44-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/posts/post-1/</loc>
+    <loc>http://gekaklam.github.io/tags/image/</loc>
+    <lastmod>2017-07-15T07:49:44-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gekaklam.github.io/posts/post-1/</loc>
     <lastmod>2017-07-12T17:31:56-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/categories/</loc>
+    <loc>http://gekaklam.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/posts/post-2/</loc>
+    <loc>http://gekaklam.github.io/posts/post-2/</loc>
   </url>
   
 </urlset>
