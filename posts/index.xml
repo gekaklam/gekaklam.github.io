@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My Personal Website</title>
+    <link>http://example.com/posts/</link>
+    <description>Recent content in Posts on My Personal Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Jul 2017 07:49:44 -0400</lastBuildDate>
+    
+	<atom:link href="http://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Image links</title>
+      <link>http://example.com/posts/image-links/</link>
+      <pubDate>Sat, 15 Jul 2017 07:49:44 -0400</pubDate>
+      
+      <guid>http://example.com/posts/image-links/</guid>
+      <description>This is some text before the first heading of this post.
+Unclickable image (works!) # Org source #+name: fig__unclickable_image #+caption: Don&#39;t click this image -- It&#39;s not a hyperlink [[/images/org-mode-unicorn-logo.png]]     Don&amp;rsquo;t click this image &amp;ndash; It&amp;rsquo;s not a hyperlink
+  To be fixed (Now fixed): The sub-headings in a post get exported as Heading 1 instead of Heading 2.
+For example, this sub-section&amp;rsquo;s heading is exported as:</description>
+    </item>
+    
+    <item>
+      <title>Post 1</title>
+      <link>http://example.com/posts/post-1/</link>
+      <pubDate>Wed, 12 Jul 2017 17:31:56 -0400</pubDate>
+      
+      <guid>http://example.com/posts/post-1/</guid>
+      <description>Export this first post only by bringing point here and doing M-x org-hugo-export-wim-to-md.</description>
+    </item>
+    
+    <item>
+      <title>Post 2</title>
+      <link>http://example.com/posts/post-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/posts/post-2/</guid>
+      <description>This post has no date.
+Export this second post only by bringing point here and doing M-x org-hugo-export-wim-to-md.</description>
+    </item>
+    
+  </channel>
+</rss>
